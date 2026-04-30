@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KUNAL MALIK</h1>
+<h1 align="center">Hii 👋, I'm KUNAL MALIK</h1>
 <h3 align="center">STUDENT LEARNING { PYTHON / JAVA / DSA }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8433" /> </p>
