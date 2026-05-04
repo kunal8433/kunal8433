@@ -20,11 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Class 12th PCM Student  
-- 🌱 Currently learning **Python, Java & Data Structures**  
+- 🎓 Class 11 PCM Student  
+- 🌱 Currently learning **Python, Java & DSA**  
 - 🤖 Interested in **AI/ML & Software Development**  
-- 💻 Actively building projects & pushing on GitHub  
-- 📺 Creating content on YouTube  
+- 💻 Active on GitHub (Projects + Code Daily)  
+- 📺 YouTube Creator  
 - ⚡ Fun fact: *I think I'm funny 😄*
 
 ---
@@ -33,7 +33,7 @@
 
 - 📌 Data Structures & Algorithms (DSA)  
 - 📌 Python for AI/ML  
-- 📌 Building Real-world Projects  
+- 📌 Real-world Projects  
 
 ---
 
@@ -44,9 +44,14 @@
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### 🧰 Tools & Technologies
+### 📚 Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
 </p>
 
 ---
@@ -64,6 +69,16 @@
 
 ---
 
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Kunal8433/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -74,7 +89,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
   </a>
   <a href="mailto:kunalchaudhary843305@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
