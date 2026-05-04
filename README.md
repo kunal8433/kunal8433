@@ -21,19 +21,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Class 12th PCM Student  
-- 🌱 Currently learning **Python, Java & DSA**  
-- 🤖 Interested in **AI/ML & Software Development**  
-- 💻 Active on GitHub (Projects + Code Daily)  
-- 📺 YouTube Creator  
+- 🌱 Learning **Python, Java & DSA**  
+- 🤖 Interested in **AI/ML**  
+- 💻 Active on GitHub  
 - ⚡ Fun fact: *I think I'm funny 😄*
-
----
-
-## 🎯 Current Focus
-
-- 📌 Data Structures & Algorithms (DSA)  
-- 📌 Python for AI/ML  
-- 📌 Real-world Projects  
 
 ---
 
@@ -41,17 +32,23 @@
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 </p>
 
-### 📚 Libraries & Frameworks
+### 📚 Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
 ---
@@ -63,17 +60,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=radical" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🧠 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Kunal8433/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/>
   </a>
 </p>
 
@@ -83,16 +76,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-chaudhary-087666380">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://x.com/kunal_ch78">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
   </a>
   <a href="https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
   </a>
   <a href="mailto:kunalchaudhary843305@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
   </a>
 </p>
 
@@ -110,17 +103,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kunal.malik78">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="45" />
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
-
-
 
