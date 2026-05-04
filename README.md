@@ -1,68 +1,107 @@
-<h1 align="center">Hii 👋, I'm KUNAL MALIK</h1>
+<h1 align="center">Hi 👋, I'm Kunal malik</h1>
 <h3 align="center">STUDENT LEARNING { PYTHON / JAVA / DSA }</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8433" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal8433" alt="kunal8433" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kunal_ch78" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_ch78?logo=twitter&style=for-the-badge" alt="kunal_ch78" /></a> </p>
-
-- 🌱 I’m currently learning **Python / Java / DSA**
-
-- 👨‍💻 All of my projects are available at [https://spontaneous-sundae-50a9fa.netlify.app/](https://spontaneous-sundae-50a9fa.netlify.app/)
-
-- 📫 How to reach me **kunalchaudhary843305@gmail.com**
-
-- 👨‍💻 My youtube Channel [https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w](https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w)
-
-- ⚡ Fun fact **I Think I'am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kunal_ch78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal_ch78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-chaudhary-087666380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kunal.malik78/?__pwa=1#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwraou4a-ro0j7gqxjqjw3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kunal8433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-</p>
-
-<!-- ✅ Animation Added Here -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <a href="https://komarev.com/ghpvc/?username=kunal8433">
+    <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20views&color=00FFFF&style=flat-square" alt="kunal8433's profile views" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal8433&show_icons=true&locale=en&layout=compact" alt="kunal8433" /></p>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&locale=en" alt="kunal8433" /></p>
+## 📌 About Me
+- 🌱 I’m currently learning Python / Java / DSA
+- 👨‍💻 All of my projects are available at GitHub
+- 📫 How to reach me kunalchaudhary843305@gmail.com
+- 👨‍💻 My youtube Channel Kunal Chaudhary
+- ⚡ Fun fact I Think I'am funny
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&" alt="kunal8433" /></p>
+
+## 🧠 My Focus Areas
+- AI/ML
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/kunal8433">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunal8433&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="kunal8433's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=kunal8433&theme=radical&hide_border=true&cache_seconds=86400" alt="kunal8433's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kunal8433&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kunal malik's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=radical&radius=10" alt="kunal8433's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/kunal8433">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kunal8433&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=kunal8433)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-chaudhary-087666380">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/kunal_ch78">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/8433058587">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kunalchaudhary843305@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://spontaneous-sundae-50a9fa.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> Fearless
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/Kunal Malik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
 
 
