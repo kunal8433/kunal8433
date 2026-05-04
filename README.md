@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Class 11 PCM Student  
+- 🎓 Class 12th PCM Student  
 - 🌱 Currently learning **Python, Java & DSA**  
 - 🤖 Interested in **AI/ML & Software Development**  
 - 💻 Active on GitHub (Projects + Code Daily)  
