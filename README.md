@@ -1,99 +1,137 @@
 <h1 align="center">Hi 👋, I'm Kunal Malik</h1>
 
 <h3 align="center">
-  🚀 Student | Future AI Engineer | Python • Java • DSA Learner
+🚀 Student | Future AI Engineer | Python • Java • DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=500&lines=Building+Projects;Passionate+Coder;Learning+AI%2FML;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Projects;Passionate+Coder;Learning+AI%2FML;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="60%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 - 🎓 Class 12th PCM Student  
 - 🌱 Learning **Python, Java & DSA**  
-- 🤖 Interested in **AI/ML**  
-- 💻 Active on GitHub  
-- ⚡ Fun fact: *I think I'm funny 😄*
+- 🤖 Interested in **AI/ML & Software Development**  
+- 💻 Consistently improving coding skills  
+- ⚡ Fun fact: *I enjoy building cool projects 😄*
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-</p>
+## 👨‍💻 Languages
 
-### 📚 Libraries
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Libraries
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=radical" height="170" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
 </p>
 
 ---
 
-## 🧠 Coding Profiles
+## 🧰 Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+---
+
+# 🧠 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Kunal8433/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="65"/>
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-chaudhary-087666380">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://x.com/kunal_ch78">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45"/>
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://www.youtube.com/channel/UCWraOu4A-ro0j7gqxjqJW3w">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="45"/>
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="mailto:kunalchaudhary843305@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
   </a>
 </p>
 
 ---
 
-## 💬 Quote
+# 💬 Quote
 
-> 🔥 *"Fearless Mindset Builds Powerful Future"*
+<p align="center">
+🔥 <i>"Fearless Mindset Builds Powerful Future"</i>
+</p>
 
 ---
 
