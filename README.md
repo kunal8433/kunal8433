@@ -54,30 +54,39 @@
 
 ---
 
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
-    height="170"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=kunal8433&theme=radical&hide_border=true" 
-    height="170"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"
+/>
 
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=radical&hide_border=true" 
-    height="170"
-  />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
 </p>
 
----
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
+</p>
+
+
 
 ## 🧠 Coding Profiles
 
