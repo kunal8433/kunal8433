@@ -89,25 +89,20 @@ height="180"
 
 
 ## 🧠 Coding Profiles
+## 🧠 Coding Profiles
 
 <p align="center">
-
-  <a href="https://leetcode.com/u/Kunal8433/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Kunal8433/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.geeksforgeeks.org/profile/kunalchaudhcmi1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" alt="GeeksforGeeks"/>
+  <a href="https://www.geeksforgeeks.org/profile/kunalchaudhcmi1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/profile/kunalchaudhary82" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" alt="HackerRank"/>
+  <a href="https://www.hackerrank.com/profile/kunalchaudhary82">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60"/>
   </a>
-
 </p>
 
 ---
