@@ -87,8 +87,6 @@ height="180"
 </p>
 
 
-
-## 🧠 Coding Profiles
 ## 🧠 Coding Profiles
 
 <p align="center">
