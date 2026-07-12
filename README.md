@@ -56,17 +56,25 @@
 </p>
 
 ---
-## ⭐ GitHub Stars
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=kunal8433&theme=tokyonight&no-frame=true&row=1&column=6"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kunal8433&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=kunal8433&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
 
 ---
 
