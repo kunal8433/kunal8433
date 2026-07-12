@@ -5,46 +5,49 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kunal8433&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=500&lines=Building+Projects;Passionate+Coder;Learning+AI%2FML;Future+Software+Engineer" />
 </p>
 
-<!-- YOUR SAME ANIMATION -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="60%" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-- 🎓 Class 12th PCM Student  
-- 🌱 Learning **Python, Java & DSA**  
-- 🤖 Interested in **AI/ML**  
-- 💻 Active on GitHub  
-- ⚡ Fun fact: *I think I'm funny 😄*
+- 🎓 Class 12 PCM Student
+- 🌱 Currently learning **Python, Java & DSA**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Building Projects & Uploading Daily on GitHub
+- 🚀 Future Software Engineer
+- ⚡ Fun Fact: *Fearless Mindset Builds Powerful Future.*
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 </p>
 
-### 📚 Libraries
+## 📚 Libraries
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
 </p>
 
-### 🧰 Tools
+## 🧰 Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
@@ -54,40 +57,45 @@
 
 ---
 
-
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-height="180"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=kunal8433&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal8433&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </p>
 
+---
 
-## 🧠 Coding Profiles
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🧠 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Kunal8433/">
@@ -105,7 +113,7 @@ height="180"
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-chaudhary-087666380">
@@ -127,9 +135,9 @@ height="180"
 
 ---
 
-## 💬 Quote
+# 💬 Quote
 
-> 🔥 *"Fearless Mindset Builds Powerful Future"*
+> 🔥 **"Fearless Mindset Builds Powerful Future."**
 
 ---
 
