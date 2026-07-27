@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kunal8433&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=kunal8433&theme=tokyonight&show_icons=true&hide_border=true"
     height="180"
   />
   <img
@@ -71,7 +71,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
@@ -81,7 +81,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
