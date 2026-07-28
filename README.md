@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Malik</h1>
+<h1 align="center">Hii 👋, I'm Kunal Malik</h1>
 
 <h3 align="center">
   🚀 Student | Future AI Engineer | Python • Java • DSA Learner
