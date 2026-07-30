@@ -55,32 +55,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
----
-# 🌠 GitHub Stats
+## ⭐ GitHub Trophies
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal8433&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal8433&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal8433&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# ⭐ GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunal8433&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+https://github-profile-trophy.vercel.app/?username=kunal8433&theme=tokyonight
 
 
 ---
