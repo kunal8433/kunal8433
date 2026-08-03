@@ -55,13 +55,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
+------
+
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=github-compact&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/kunal8433" alt="Kunal's Contribution Graph" />
 </p>
 
+----
 # 🧠 Coding Profiles
 
 <p align="center">
