@@ -61,7 +61,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/kunal8433" alt="Kunal's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </p>
 
 ----
