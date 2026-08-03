@@ -57,13 +57,15 @@
 
 
 
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Kunal's GitHub Activity Graph"
+  />
 </p>
-
 ---
 
 # 🧠 Coding Profiles
