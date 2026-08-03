@@ -56,17 +56,11 @@
 </p>
 
 
-
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kunal8433&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Kunal's GitHub Activity Graph"
-  />
+  <img src="https://raw.githubusercontent.com/kunal8433/kunal8433/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
----
 
 # 🧠 Coding Profiles
 
